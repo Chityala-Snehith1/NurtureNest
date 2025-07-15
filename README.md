@@ -259,17 +259,7 @@ scripts/                # Utility scripts
 - Predictive insights
 - Interactive charts and visualizations
 
-## Testing
 
-### Testing with Supabase (Default)
-
-1. Ensure your Supabase credentials are configured in `.env`
-2. Start the development server:
-   ```bash
-   npm run dev
-   ```
-3. Open [http://localhost:5173](http://localhost:5173) in your browser
-4. Test user registration, login, and core features
 
 ### Testing with Oracle SQL*Plus
 
@@ -295,10 +285,6 @@ scripts/                # Utility scripts
    npm run dev
    ```
 
-5. **Test Oracle Integration**:
-   - Open [http://localhost:5173](http://localhost:5173)
-   - Verify the backend is running at [http://localhost:5000/api/health](http://localhost:5000/api/health)
-   - Test user registration, login, and data operations
 
 ### Switching Between Databases
 
@@ -319,6 +305,8 @@ To switch between Supabase and Oracle:
 3. Make your changes
 4. Submit a pull request
 
-## License
+⚠️** Warning: Copyright Notice**
+This project is protected by copyright law. Unauthorized copying, distribution, or reuse of any part of this work is strictly prohibited. Violators may be subject to legal action.
 
-This project is licensed under the MIT License.
+
+
