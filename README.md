@@ -2,6 +2,18 @@
 
 A comprehensive maternal health platform built with React, TypeScript, and Vite.
 
+## 👥 Team Members
+
+- **A. Sripriya** – Frontend Developer  
+  [LinkedIn](https://www.linkedin.com/in/sripriya-a-8475b92b8)
+
+- **Chityala Snehith** – Backend Developer  
+  [LinkedIn](https://www.linkedin.com/in/snehith1/)
+
+- **Dargula Meghana Reddy** – UI/UX Designer  
+  [LinkedIn](https://www.linkedin.com/in/meghana-dargula-60919325a)
+
+
 ## Features
 
 - **User Authentication**: Secure login and registration with Supabase
