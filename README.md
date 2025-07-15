@@ -305,10 +305,29 @@ To switch between Supabase and Oracle:
 3. Make your changes
 4. Submit a pull request
 
+## Output
+![WhatsApp Image 2025-07-15 at 14 12 38_7cf49a95](https://github.com/user-attachments/assets/81cedd39-2409-4aad-9280-bb8d536903ed)
+![WhatsApp Image 2025-07-15 at 14 12 38_5d89e14b](https://github.com/user-attachments/assets/8d6e5d2e-248c-421a-85a3-9d74fa2b138e)
+![WhatsApp Image 2025-07-15 at 14 12 38_33117c7d](https://github.com/user-attachments/assets/9a97462b-33e1-4f35-817e-7abeb898b2b5)
+![WhatsApp Image 2025-07-15 at 14 12 38_a5fb14fa](https://github.com/user-attachments/assets/456281ba-94d6-4d62-9c30-f9cf74f15054)
+![WhatsApp Image 2025-07-15 at 14 12 38_9fd49b49](https://github.com/user-attachments/assets/2a77ac08-db72-48c8-80b1-d80216868174)
+![WhatsApp Image 2025-07-15 at 14 12 38_967023e3](https://github.com/user-attachments/assets/fc708f16-053a-47b8-8e61-2006c95fb36b)
+![WhatsApp Image 2025-07-15 at 14 12 38_156e3710](https://github.com/user-attachments/assets/656e2bd3-4748-433c-ab40-92a6afc888cc)
+![WhatsApp Image 2025-07-15 at 14 12 38_95749137](https://github.com/user-attachments/assets/bfa8e333-f93e-44ca-ac8d-65595aed3c1d)
+![WhatsApp Image 2025-07-15 at 14 12 38_26368e38](https://github.com/user-attachments/assets/2d1263d2-7a45-4130-8abb-914a835a7b53)
+![WhatsApp Image 2025-07-15 at 14 12 38_c997a3db](https://github.com/user-attachments/assets/61acd278-1c57-4e3e-b071-161e6bf04f69)
+![WhatsApp Image 2025-07-15 at 14 12 38_7f8473f4](https://github.com/user-attachments/assets/d140e6a9-eeab-4bec-a0b7-60e3e5c5effc)
+![WhatsApp Image 2025-07-15 at 14 12 38_954ab4e0](https://github.com/user-attachments/assets/3dbad18e-3f12-4063-b5ef-c98b79517e37)
+![WhatsApp Image 2025-07-15 at 14 12 38_800fc2f7](https://github.com/user-attachments/assets/68f2aadd-7659-4db4-802d-c1bc4bfa75d6)
 
-⚠️** Warning: Copyright Notice**
+
+
+https://github.com/user-attachments/assets/7fdcb9c2-d273-4ed8-b916-36ee9c4900c9
+
+
+
+## ⚠️** Warning: Copyright Notice**
 This project is protected by copyright law. Unauthorized copying, distribution, or reuse of any part of this work is strictly prohibited. Violators may be subject to legal action.
 
 
-![WhatsApp Image 2025-07-15 at 14 12 38_7cf49a95](https://github.com/user-attachments/assets/81cedd39-2409-4aad-9280-bb8d536903ed)
 
