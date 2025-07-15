@@ -305,8 +305,10 @@ To switch between Supabase and Oracle:
 3. Make your changes
 4. Submit a pull request
 
+
 ⚠️** Warning: Copyright Notice**
 This project is protected by copyright law. Unauthorized copying, distribution, or reuse of any part of this work is strictly prohibited. Violators may be subject to legal action.
 
 
+![WhatsApp Image 2025-07-15 at 14 12 38_7cf49a95](https://github.com/user-attachments/assets/81cedd39-2409-4aad-9280-bb8d536903ed)
 
