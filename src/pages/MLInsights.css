@@ -1,0 +1,57 @@
+.container {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+}
+
+.upload-section {
+  margin-bottom: 20px;
+}
+
+.data-entry {
+  display: flex;
+  gap: 10px;
+  margin-bottom: 20px;
+}
+
+.data-entry input {
+  padding: 5px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.data-entry button {
+  padding: 5px 10px;
+  background-color: #36A2EB;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+.data-list {
+  margin-bottom: 20px;
+}
+
+.data-list li {
+  margin-bottom: 5px;
+}
+
+.data-list button {
+  margin-left: 10px;
+  background-color: #FF6384;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+.result {
+  background-color: #f9f9f9;
+  padding: 10px;
+  margin-bottom: 20px;
+  border: 1px solid #ccc;
+}
+
+.chart-container {
+  margin-bottom: 20px;
+  max-width: 500px;
+  margin: 0 auto;
+}

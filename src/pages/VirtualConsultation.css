@@ -1,0 +1,92 @@
+/* VirtualConsultation.css */
+.consultation-container {
+    font-family: Arial, sans-serif;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 2rem;
+    background-color: #f9f9f9;
+    border-radius: 0.5rem;
+    box-shadow: 0 0.25rem 0.5rem rgba(0, 0, 0, 0.1);
+}
+
+.consultation-container h1 {
+    text-align: center;
+    color: #333;
+    font-size: 2rem;
+}
+
+.slots-container {
+    margin-top: 2rem;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 1rem;
+}
+
+.slot-item {
+    padding: 1rem;
+    text-align: center;
+    background-color: #e0e0e0;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.slot-item:hover {
+    background-color: #ccc;
+    transform: translateY(-2px);
+}
+
+.slot-item.selected {
+    background-color: #4CAF50;
+    color: white;
+}
+
+.slot-item:focus {
+    outline: none;
+    box-shadow: 0 0 0 2px rgba(76, 175, 80, 0.7);
+}
+
+.book-button {
+    margin-top: 3rem;
+    padding: 1rem 2rem;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 0.5rem;
+    cursor: pointer;
+    width: 100%;
+    font-size: 1rem;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.book-button:hover {
+    background-color: #45a049;
+    transform: translateY(-2px);
+}
+
+.book-button:focus {
+    outline: none;
+    box-shadow: 0 0 0 2px rgba(76, 175, 80, 0.7);
+}
+
+.error-message {
+    color: red;
+    font-size: 1rem;
+    text-align: center;
+    margin-top: 1rem;
+}
+
+/* Responsive Design */
+@media (max-width: 600px) {
+    .slots-container {
+        grid-template-columns: 1fr; /* Stack slots on small screens */
+    }
+
+    .consultation-container {
+        padding: 1rem;
+    }
+
+    .book-button {
+        font-size: 0.9rem;
+    }
+}
